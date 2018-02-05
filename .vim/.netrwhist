@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/Ben/.matplotlib'
+let g:netrw_dirhist_2='/Users/Ben/Documents/Secret-Santa/views'
+let g:netrw_dirhist_3='/Library/WebServer/Documents/phpmyadmin/config'
+let g:netrw_dirhist_4='/private/var/log'
+let g:netrw_dirhist_5='/afs/inf.ed.ac.uk/user/s16/s1623919/Documents/Inf2/PFNL/cgw'
